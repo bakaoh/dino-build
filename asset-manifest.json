@@ -3,12 +3,12 @@
     "static/js/0.81357c5c.chunk.js": "/static/js/0.81357c5c.chunk.js",
     "static/js/1.6a817289.chunk.js": "/static/js/1.6a817289.chunk.js",
     "main.css": "/static/css/main.c665866c.chunk.css",
-    "main.js": "/static/js/main.91fcb1e0.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.2e5e683a.js",
+    "main.js": "/static/js/main.d35709b4.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.00376534.js",
     "static/css/4.cd5b94dc.chunk.css": "/static/css/4.cd5b94dc.chunk.css",
-    "static/js/4.f69f2bc8.chunk.js": "/static/js/4.f69f2bc8.chunk.js",
-    "static/js/5.d08b6925.chunk.js": "/static/js/5.d08b6925.chunk.js",
-    "static/js/6.94290c5d.chunk.js": "/static/js/6.94290c5d.chunk.js",
+    "static/js/4.1a768457.chunk.js": "/static/js/4.1a768457.chunk.js",
+    "static/js/5.21291f91.chunk.js": "/static/js/5.21291f91.chunk.js",
+    "static/js/6.647d2343.chunk.js": "/static/js/6.647d2343.chunk.js",
     "static/js/7.c17aded0.chunk.js": "/static/js/7.c17aded0.chunk.js",
     "static/js/8.c5678733.chunk.js": "/static/js/8.c5678733.chunk.js",
     "static/js/9.51edd6e1.chunk.js": "/static/js/9.51edd6e1.chunk.js",
@@ -16,8 +16,8 @@
     "static/js/11.2b64cc94.chunk.js": "/static/js/11.2b64cc94.chunk.js",
     "index.html": "/index.html",
     "static/js/10.3260aaeb.chunk.js.LICENSE.txt": "/static/js/10.3260aaeb.chunk.js.LICENSE.txt",
-    "static/js/4.f69f2bc8.chunk.js.LICENSE.txt": "/static/js/4.f69f2bc8.chunk.js.LICENSE.txt",
-    "static/js/5.d08b6925.chunk.js.LICENSE.txt": "/static/js/5.d08b6925.chunk.js.LICENSE.txt",
+    "static/js/4.1a768457.chunk.js.LICENSE.txt": "/static/js/4.1a768457.chunk.js.LICENSE.txt",
+    "static/js/5.21291f91.chunk.js.LICENSE.txt": "/static/js/5.21291f91.chunk.js.LICENSE.txt",
     "static/js/7.c17aded0.chunk.js.LICENSE.txt": "/static/js/7.c17aded0.chunk.js.LICENSE.txt",
     "static/js/8.c5678733.chunk.js.LICENSE.txt": "/static/js/8.c5678733.chunk.js.LICENSE.txt",
     "static/media/add.46a1df7c.svg": "/static/media/add.46a1df7c.svg",
@@ -91,10 +91,10 @@
     "static/media/xl_uni.png": "/static/media/xl_uni.89be1dda.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e5e683a.js",
+    "static/js/runtime-main.00376534.js",
     "static/css/4.cd5b94dc.chunk.css",
-    "static/js/4.f69f2bc8.chunk.js",
+    "static/js/4.1a768457.chunk.js",
     "static/css/main.c665866c.chunk.css",
-    "static/js/main.91fcb1e0.chunk.js"
+    "static/js/main.d35709b4.chunk.js"
   ]
 }
