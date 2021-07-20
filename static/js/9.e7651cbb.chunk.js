@@ -1,0 +1,1 @@
+(this["webpackJsonp@sushiswap/interface"]=this["webpackJsonp@sushiswap/interface"]||[]).push([[9],{1567:function(s,n){},1642:function(s,n){},1644:function(s,n){}}]);
