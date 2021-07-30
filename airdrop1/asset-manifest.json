@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/airdrop1/static/css/main.4f9f5986.chunk.css",
+    "main.js": "/airdrop1/static/js/main.b65a7012.chunk.js",
+    "main.js.map": "/airdrop1/static/js/main.b65a7012.chunk.js.map",
+    "runtime-main.js": "/airdrop1/static/js/runtime-main.4a44311b.js",
+    "runtime-main.js.map": "/airdrop1/static/js/runtime-main.4a44311b.js.map",
+    "static/js/2.6457875e.chunk.js": "/airdrop1/static/js/2.6457875e.chunk.js",
+    "static/js/2.6457875e.chunk.js.map": "/airdrop1/static/js/2.6457875e.chunk.js.map",
+    "static/js/3.868e370a.chunk.js": "/airdrop1/static/js/3.868e370a.chunk.js",
+    "static/js/3.868e370a.chunk.js.map": "/airdrop1/static/js/3.868e370a.chunk.js.map",
+    "static/js/4.7041df3b.chunk.js": "/airdrop1/static/js/4.7041df3b.chunk.js",
+    "static/js/4.7041df3b.chunk.js.map": "/airdrop1/static/js/4.7041df3b.chunk.js.map",
+    "index.html": "/airdrop1/index.html",
+    "static/css/main.4f9f5986.chunk.css.map": "/airdrop1/static/css/main.4f9f5986.chunk.css.map",
+    "static/js/2.6457875e.chunk.js.LICENSE.txt": "/airdrop1/static/js/2.6457875e.chunk.js.LICENSE.txt",
+    "static/js/3.868e370a.chunk.js.LICENSE.txt": "/airdrop1/static/js/3.868e370a.chunk.js.LICENSE.txt",
+    "static/media/ido.css": "/airdrop1/static/media/earn-with-dino.b19e1c5c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a44311b.js",
+    "static/js/3.868e370a.chunk.js",
+    "static/css/main.4f9f5986.chunk.css",
+    "static/js/main.b65a7012.chunk.js"
+  ]
+}
